@@ -23,6 +23,7 @@ body {
   font-size: 2rem;
   line-height: 2.387;
   height: 100%;
+  scroll-behavior: smooth;
 }
 
 .container {
